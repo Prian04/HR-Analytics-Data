@@ -19,3 +19,5 @@ The dashboard comprises several key visualizations, each offering unique insight
 Additionally, a slicer has been implemented based on departmental divisions, providing users with the flexibility to dynamically filter and explore attrition trends across different departments. The dashboard also includes various key performance indicator (KPI) metrics.
 
 By leveraging these visualizations, HR professionals can gain deeper insights into the factors driving attrition within their organization, empowering them to formulate targeted retention strategies and foster a more engaged and loyal workforce.
+
+Note:- For quick view or reference related attriction of the employee the powerbi visual charts is exported in pdf format i.e hr_analystics.pdf check it.
